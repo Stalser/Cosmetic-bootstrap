@@ -7,6 +7,7 @@ footer {
 body {
 }
 .container {
+  overflow: hidden;
   padding: 0 !important;
 }
 a {
@@ -131,11 +132,9 @@ a:hover {
 }
 /*-----------------------------------*/
 .block__3 {
-  overflow: hidden;
   background-color: #4fbfa5;
 }
 .block-3 {
-  overflow: hidden;
 }
 .block-3__left {
   padding: 0 !important;
@@ -205,11 +204,9 @@ a:hover {
 }
 /*--------------------------------*/
 .block__4 {
-  overflow: hidden;
   background-color: #4fbfa5;
 }
 .block-4 {
-  overflow: hidden;
 }
 .komplex {
   padding: 20px 0;

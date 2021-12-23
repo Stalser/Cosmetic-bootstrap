@@ -481,6 +481,14 @@ a:hover {
   color: #fff;
   font-size: 18px;
 }
+.block-6__why-link {
+  text-decoration: none;
+  color: #fff;
+}
+.block-6__why-link:hover {
+  text-decoration: underline;
+  color: #fff;
+}
 .block-6__recom {
 }
 .block-6__recom-text {
@@ -488,7 +496,14 @@ a:hover {
   font-size: 18px;
   padding: 40px;
 }
-
+.block-6__recom-link {
+  text-decoration: none;
+  color: #fff;
+}
+.block-6__recom-link:hover {
+  text-decoration: underline;
+  color: #fff;
+}
 .block-6__mnenie {
   padding: 0 !important;
   background-color: rgb(241, 241, 241);
@@ -509,7 +524,7 @@ a:hover {
   overflow: hidden;
   padding: 0 !important;
   margin: 50px 0 50px 0;
-  background-color: #c2e9eb;
+  background: linear-gradient(#c2e9eb 60%, white 40%);
 }
 .block-7 {
   overflow: hidden;
@@ -690,3 +705,4 @@ a:hover {
   padding: 30px 0;
   font-size: 12px;
 }
+/*----------------------------------------*/
